@@ -1,4 +1,4 @@
-# KURDXTOOL
+# KURD X TOOL
 
 The Fastest Facebook Friendlist Multibruteforce
 
